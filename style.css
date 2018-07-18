@@ -1,0 +1,54 @@
+
+
+body{
+  background-image: url(backgroundimage.jpg);
+  background-size: cover;
+  color: #1D6000;
+  text-align: center;
+  margin: 0px;
+  margin-top: 8px;
+}
+
+p{
+  line-height: 30px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 130%;
+  font-family: 'Poiret One', cursive;
+
+}
+
+.btn:hover {
+  background-color: black;
+  border-width: 3px;
+}
+
+.fortuneform{
+  font-size: 110%;
+
+}
+
+.form-control{
+  margin: 10px 10px -5px 10px;
+}
+button{
+  margin-top: 0px
+}
+
+h1{
+  color: #1D6000;
+  text-align: center;
+  width: 320px;
+  border-bottom: 2px solid pink;
+  border-right: 2px solid pink;
+  box-shadow: 4px 4px 5px rgba(0,0,0,0.7);
+  margin: 0px;
+  margin-top: 2px;
+  font-family: fantasy;
+}
+
+form{
+  color: #1D6000;
+  font-size: 110%;
+  font-family: "Times New Roman";
+}
